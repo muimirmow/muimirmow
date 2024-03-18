@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi
+- **Discord**: [olegshilo](https://discord.com/users/olegshilo)
 <!--
 **muimirmow/muimirmow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
